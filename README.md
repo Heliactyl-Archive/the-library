@@ -195,6 +195,14 @@ The next major version will be Heliactyl Next 15, expected October 3. Following 
 - Based on: Heliactyl Legacy 12.1.1 (Kyiv Ridge), April 2022
 - Expected EOL: December 2023
 - Stack: Express, SQLite, EJS, Keyv, Bootstrap (Heliactyl Legacy 11 frontend)
+- 
+## legacy@[fixed-15.0.1-dev] - 2024-22-11
+
+- Codename: Orca
+- Version: v15.0.1-dev
+- Based on: Heliactyl Legacy 15 (initial base release)
+- Expected EOL: ??
+- Stack: Express, SQLite/MySQL, EJS, TailwindCSS
 
 ## legacy@[15.0.0-beta6] - 2022-30-11
 
@@ -240,7 +248,7 @@ The next major version will be Heliactyl Next 15, expected October 3. Following 
 
 ## legacy@[11.4.4] - 2021-12-09
 
-- Codename: ???
+- Codename: Kanjut
 - Version: v11.4.4
 - Based on: Heliactyl Legacy N 10.2.2 (???), October 2021
 - Expected EOL: March 2022
