@@ -21,29 +21,13 @@
       }
     },
     "next": {
-      "edge": {
-        "version": "15.0.0-dev",
-        "build": "2025-09-19",
-        "release": "Developer Preview 15.0.0-dev",
+      "latest": {
+        "version": "16.0.0-dev",
+        "build": "2026-01-10",
+        "release": "Developer Preview 16.0.0-dev",
         "status": "development",
-        "branch": "v15.x",
+        "branch": "v16.x",
         "notes": "Highly experimental version. Next generation Heliactyl."
-      },
-      "current": {
-        "v11": {
-          "version": "11.0.0-beta3",
-          "status": "supported",
-          "codename": "Interlagos",
-          "branch": "v11.x",
-          "notes": "Heliactyl Next stable channel. Actively supported."
-        },
-        "v10": {
-          "version": "10.0.19",
-          "status": "supported",
-          "codename": "Toledo",
-          "branch": "v10.x",
-          "notes": "Heliactyl Next stable channel. Actively supported."
-        }
       }
     }
   }
