@@ -4,20 +4,31 @@ Note: Versions 12 to 14 used a different month based versioning system.
 
 # Next version
 
-The next major version will be Heliactyl Next 15, expected October 3. Following the 3-5 week cycle, Heliactyl Next 15 (Manhattan) will be a major update, alongside Heliactyl Next 5 (Meridian) and Heliactyl Next 10 (Toledo).
+The next major version will be Heliactyl Next 16, expected January 10. Following the 3-5 week cycle, Heliactyl Next 16 (Manhattan) will be a major update.
 
-## next@[15.0.0-dev] - 2025-09-19 (dev)
+## next@[16.0.0-dev] - 2026-01-10 (dev)
 
-- Release: next@15.0.0-dev (channel: dev)
-- Build: 2025-09-19
+- Release: next@16.0.0-dev (channel: dev)
+- Build: 2026-01-06
+- Codename: Palo Alto
+- Generation: Next 15
+- Database heliadb@16.x
+- UI: heliaui@16.x (Ceramic 2)
+- Daemon: cryogenic@16.0.0-dev (codename: Palo Verde, generation: Cryogenic 16)
+- Panel API: Colossus 16.x
+
+## next@[15.3.0] - 2025-12-20 (current)
+
+- Release: next@15.3.0 (channel: current)
+- Build: 2025-12-20
 - Codename: Manhattan
 - Generation: Next 15
-- Database heliadb@15.0.0-dev, using Heliactyl's native Caraspace (caraspace@15.0.0-dev) database (adaptors: native, SQLite, MySQL, PostgreSQL)
-- UI: heliaui@15.0.0-dev (Fluid Design System)
-- Daemon: cryogenic@15.0.0-dev (codename: Edgewater, generation: Cryogenic 15)
-- Panel API: Pterodactyl (1.7+) + stratum@15.0.0-dev (codename: Riverdale, generation: Stratum 15)
+- Database heliadb@15.3.0
+- UI: heliaui@15.3.0 (Ceramic Design System)
+- Daemon: cryogenic@15.4.2 (codename: Edgewater, generation: Cryogenic 15)
+- Panel API: Pterodactyl (1.7+) / Colossus (any)
 
-## next@[14] - 2025-09-13 (current)
+## next@[14] - 2025-09-13 (previous)
 
 - Release: stable-2510
 - Build: 2025-09-13
@@ -26,7 +37,7 @@ The next major version will be Heliactyl Next 15, expected October 3. Following 
 - Database heliadb@14.0.7, using PostgreSQL
 - UI: heliaui@14.2.2
 
-## next@[13] - 2025-09-01 (previous)
+## next@[13] - 2025-09-01
 
 - Release: stable-2509
 - Build: 2025-09-01
@@ -42,7 +53,7 @@ The next major version will be Heliactyl Next 15, expected October 3. Following 
 - Generation: Next 12
 - Database heliadb@12, using PostgreSQL
 
-## next@[11.0.x] - 2025-07-15 (previous)
+## next@[11.0.x] - 2025-07-15
 
 - Codename: Interlagos
 - Version: v11.0.0-beta3
